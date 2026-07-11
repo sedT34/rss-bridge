@@ -119,7 +119,7 @@ headless = false
 [authentication]
 
 ; HTTP basic authentication
-enable = true
+enable = false
 username = "rss_777"
 password = "novosti_rss_3eee"
 
