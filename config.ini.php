@@ -121,7 +121,7 @@ headless = false
 ; HTTP basic authentication
 enable = true
 username = "rss_777"
-password = "ea4e97d45527b3b38a5e932de3eee208"
+password = "novosti_rss_3eee"
 
 ; Token authentication (URL)
 token = ""
